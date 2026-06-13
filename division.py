@@ -1,1 +1,1 @@
-print("Division:",4/2)
+print("Division:",10/4)
